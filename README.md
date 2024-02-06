@@ -25,12 +25,12 @@ We employed a recurrent neural network (RNN) with LSTM units for time series for
 ## Results
 ### For Beijing dataset:
   - Next hour forecast RMSE: 0.1913 (91.5% accuracy)
-![R1 Pollution](images/forecast_Beijing.png "Actual Vs. Predicted PM 2.5 values of employed architecture on Hourly data of modified UCI Beijing air quality dataset")
   - Next 24 hours forecast RMSE: 0.7290
+![R1 Pollution](images/forecast_Beijing.png "Actual Vs. Predicted PM 2.5 values of employed architecture on Hourly data of modified UCI Beijing air quality dataset")
 ![R2 Pollution](images/forecast_24Beijing.png "Actual Vs. Predicted PM 2.5 values of employed architecture on 24 hour data of modified UCI Beijing air quality dataset")
 ### For Punjab dataset:
   - Next day forecast RMSE: 0.2192
-![R2 Pollution](images/forecast_Panjab.png "Actual Vs. Predicted PM 2.5 values of employed architecture on 24 hour data of Panjab air quality dataset")
+![R3 Pollution](images/forecast_Panjab.png "Actual Vs. Predicted PM 2.5 values of employed architecture on 24 hour data of Panjab air quality dataset")
 
 ## Conclusion
 The LSTM model shows promising results in forecasting particulate matter concentration, with potential applications in establishing early warning systems based on the air quality index (AQI). These forecasts could enable governments to enact policies aimed at improving air quality and mitigating the health and economic impacts of air pollution.
