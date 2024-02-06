@@ -45,7 +45,7 @@ The code for the LSTM model and data preprocessing can be found in this reposite
 - Gul S., Khan G.M, Yousaf S. (2022). Multi-step short-term
 PM 2.5 forecasting for enactment of proactive
 environmental regulation strategies. Environmental Monitoring
-and Assessment. 194. 10.1007/s10661-022-10029-4.
+and Assessment. 194, 386.(https://doi.org/10.1007/s10661-022-10029-4)
 
 - Gul S., Khan G.M. (2020) Forecasting Hazard Level of Air Pollutants
 Using LSTM’s. In: Maglogiannis I., Iliadis L., Pimenidis E. (eds) Artificial
