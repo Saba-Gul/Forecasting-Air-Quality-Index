@@ -23,12 +23,12 @@ The second dataset covers some regions across Punjab with 4 stations across Laho
 We employed a recurrent neural network (RNN) with LSTM units for time series forecasting. The LSTM model is known for its ability to capture long-term dependencies in sequential data, making it suitable for time series forecasting tasks. We used Bayesian optimization to tune the hyperparameters of the LSTM model and optimize weight initialization strategies based on the dataset.
 
 ## Results
-- For Beijing dataset:
+### For Beijing dataset:
   - Next hour forecast RMSE: 0.1913 (91.5% accuracy)
     ![R1 Pollution](images/forecast_Beijing.png "Actual Vs. Predicted PM 2.5 values of employed architecture on Hourly data of modified UCI Beijing air quality dataset")
   - Next 24 hours forecast RMSE: 0.7290
     ![R2 Pollution](images/forecast_24Beijing.png "Actual Vs. Predicted PM 2.5 values of employed architecture on 24 hour data of modified UCI Beijing air quality dataset")
-- For Punjab dataset:
+### For Punjab dataset:
   - Next day forecast RMSE: 0.2192
     ![R2 Pollution](images/forecast_Panjab.png "Actual Vs. Predicted PM 2.5 values of employed architecture on 24 hour data of Panjab air quality dataset")
 
