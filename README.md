@@ -3,7 +3,7 @@
 
 ## Introduction
 Particulate matter is a significant contributor to air pollution and climate change, with serious health implications for humans and negative effects on agriculture and the economy. In this project, we explore the use of deep learning models, specifically Long Short-Term Memory (LSTM) networks, to forecast the concentration of particulate matter in two highly polluted regions: Beijing, China and Punjab, Pakistan.
-
+![Air Pollution](images/AQI2.JPG " PM 2.5 & Air Quality Index (AQI) Scale, EPA USA")
 ## Dataset
 We assessed the performance of our network using two datasets from highly polluted regions in South Asia. 
 
