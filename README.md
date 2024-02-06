@@ -26,6 +26,7 @@ We employed a recurrent neural network (RNN) with LSTM units for time series for
 ### For Beijing dataset:
   - Next hour forecast RMSE: 0.1913 (91.5% accuracy)
   - Next 24 hours forecast RMSE: 0.7290
+    
 ![R1 Pollution](images/forecast_Beijing.png "Actual Vs. Predicted PM 2.5 values of employed architecture on Hourly data of modified UCI Beijing air quality dataset")
 
 ![R2 Pollution](images/forecast_24Beijing.png "Actual Vs. Predicted PM 2.5 values of employed architecture on 24 hour data of modified UCI Beijing air quality dataset")
