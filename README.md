@@ -30,7 +30,7 @@ The code for the LSTM model and data preprocessing can be found in this reposite
 
 ## References
 - Gul S., Khan G.M, Yousaf S. (2022). Multi-step short-term
-$$PM_{2.5}$$ forecasting for enactment of proactive
+PM 2.5 forecasting for enactment of proactive
 environmental regulation strategies. Environmental Monitoring
 and Assessment. 194. 10.1007/s10661-022-10029-4.
 
@@ -40,10 +40,10 @@ Intelligence Applications and Innovations. AIAI 2020. IFIP Advances
 in Information and Communication Technology, vol 584. Springer,
 Cham. https://doi.org/10.1007/978-3-030-49186-4_13
 
--Liang, X., Zou, T., Guo, B., Li, S., Zhang, H., Zhang, S., Huang, H., & Chen S. X. (2015). Assessing Beijing’s pm2.5 pollution: severity, weather impact, APEC and winter heating. Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences, 471(2182). https://doi.org/10.1098/rspa.2015.0257
+- Liang, X., Zou, T., Guo, B., Li, S., Zhang, H., Zhang, S., Huang, H., & Chen S. X. (2015). Assessing Beijing’s pm2.5 pollution: severity, weather impact, APEC and winter heating. Proceedings of the Royal Society A: Mathematical, Physical and Engineering Sciences, 471(2182). https://doi.org/10.1098/rspa.2015.0257
 Intelligence Applications and Innovations. AIAI 2020. IFIP Advances
 in Information and Communication Technology, vol 584. Springer,
 Cham. https://doi.org/10.1007/978-3-030-49186-4_13
 
--Reddy, V., Yedavalli, P., Mohanty, S., & Nakhat, U. (2017). Deep air: forecasting air pollution in Beijing, China. Environmental Science
+- Reddy, V., Yedavalli, P., Mohanty, S., & Nakhat, U. (2017). Deep air: forecasting air pollution in Beijing, China. Environmental Science
 
